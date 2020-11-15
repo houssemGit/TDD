@@ -1,1 +1,2 @@
 INSERT INTO person(email,first_name,last_name)VALUES ('houssem.eleuch@softylis.tn','houssem','eleuch');
+INSERT INTO person(email,first_name,last_name)VALUES ('fakhri.amri@softylis.tn','fakhri','amri');
